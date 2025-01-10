@@ -195,5 +195,3 @@ return $"HASH_{encType}_{Convert.ToBase64String(Encoding.UTF8.GetBytes(password 
 ### **Why Use This?**
 - Automates Kerberos authentication for legitimate or security assessment purposes.
 - Facilitates tasks like ticket injection (e.g., Pass-the-Ticket) or saving TGTs for later use.
-
-Let me know if you have more specific questions!
