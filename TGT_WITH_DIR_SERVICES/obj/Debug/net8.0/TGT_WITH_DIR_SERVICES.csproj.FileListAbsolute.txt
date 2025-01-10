@@ -1,0 +1,6 @@
+C:\Users\cipec\source\repos\TGT_WITH_DIR_SERVICES\TGT_WITH_DIR_SERVICES\obj\Debug\net8.0\TGT_WITH_DIR_SERVICES.csproj.IkvmFrameworkReference.cache
+C:\Users\cipec\source\repos\TGT_WITH_DIR_SERVICES\TGT_WITH_DIR_SERVICES\obj\Debug\net8.0\TGT_WITH_DIR_SERVICES.csproj.AssemblyReference.cache
+C:\Users\cipec\source\repos\TGT_WITH_DIR_SERVICES\TGT_WITH_DIR_SERVICES\obj\Debug\net8.0\TGT_WITH_DIR_SERVICES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cipec\source\repos\TGT_WITH_DIR_SERVICES\TGT_WITH_DIR_SERVICES\obj\Debug\net8.0\TGT_WITH_DIR_SERVICES.AssemblyInfoInputs.cache
+C:\Users\cipec\source\repos\TGT_WITH_DIR_SERVICES\TGT_WITH_DIR_SERVICES\obj\Debug\net8.0\TGT_WITH_DIR_SERVICES.AssemblyInfo.cs
+C:\Users\cipec\source\repos\TGT_WITH_DIR_SERVICES\TGT_WITH_DIR_SERVICES\obj\Debug\net8.0\TGT_WITH_DIR_SERVICES.csproj.CoreCompileInputs.cache
